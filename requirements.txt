@@ -1,0 +1,4 @@
+langchain
+langchain-ollama
+langchain-community
+ollama==0.4.2 # versions above (0.4.3 to 0.4.4 is bugged)
