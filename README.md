@@ -1,5 +1,8 @@
 # Running a LLM Chatbot Locally Using Ollama and Langchain
 
+## Introduction
+This repo contains code to run a simple chatbot using a LLM model locally. The code leverages on Ollama and Langchain. 
+
 ## Set Up
 1. Download and install Ollama from the link [here](https://ollama.com/). Ollama will be used to host the LLM models locally. 
 2. Check that Ollama is installed correctly by running the following command:<br>
